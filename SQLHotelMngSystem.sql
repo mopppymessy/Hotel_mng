@@ -1,5 +1,5 @@
 
-Create Database G3_DBHotelFinalProject;
+Create Database HotelDB;
 
 
 
